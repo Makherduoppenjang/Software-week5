@@ -1,0 +1,7 @@
+# My first GitHub project
+
+name = "Makher Duop"
+
+print("Hello, GitHub!")
+print("Welcome to my first project.")
+print("My name is", name)
