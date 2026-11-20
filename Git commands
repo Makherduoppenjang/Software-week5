@@ -1,0 +1,17 @@
+# Initialize Git
+git init
+
+# Add files to staging
+git add hello.py
+
+# Commit your changes
+git commit -m "My first commit"
+
+# Rename branch to main
+git branch -M main
+
+# Connect to your GitHub repository
+git remote add origin https://github.com/YOUR-USERNAME/my-first-project.git
+
+# Push your code to GitHub
+git push -u origin main
